@@ -1,4 +1,6 @@
 # CS-340-Portfolio-Submission
+
+## Overview
 This repository is for the assignment '8-2 Journal: Portfolio Item' in the course CS350 Client and Server Development. This is a way to reflect on and showcase the work completed in this course.
 
 ## How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
